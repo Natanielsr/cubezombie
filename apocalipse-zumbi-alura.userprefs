@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ControlaArma.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ControlaCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlaJogador.cs" Line="28" Column="28" />
+      <File FileName="Assets\Scripts\ControlaInimigo.cs" Line="27" Column="17" />
+      <File FileName="Assets\Scripts\ControlaArma.cs" Line="76" Column="28" />
+      <File FileName="Assets\Scripts\ControlaBala.cs" Line="17" Column="3" />
+      <File FileName="Assets\Scripts\GeradorZumbis.cs" Line="12" Column="67" />
+      <File FileName="Assets\Scripts\ControlaInterface.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IMatavel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Status.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KitMedico.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ICuravel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlaPersonagem.cs" Line="9" Column="11" />
+      <File FileName="Assets\Scripts\Tempo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlaChefe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlaZumbi.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlaAudio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Billboard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlaMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Coletavel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Municao.cs" Line="12" Column="20" />
+      <File FileName="Assets\Scripts\GeradorMunicao.cs" Line="6" Column="1" />
+      <File FileName="Assets\Scripts\Gerador.cs" Line="63" Column="28" />
+      <File FileName="Assets\Scripts\IGerado.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\GeradorChefe.cs" Line="7" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
